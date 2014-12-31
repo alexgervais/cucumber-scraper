@@ -25,6 +25,7 @@ public class Scraper {
         yearToCategoryMap.put(2012, 2189);
         yearToCategoryMap.put(2013, 2605);
         yearToCategoryMap.put(2014, 2851);
+        yearToCategoryMap.put(2015, 3102);
     }
 
 
